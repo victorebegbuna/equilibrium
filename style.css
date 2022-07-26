@@ -1,0 +1,75 @@
+body{
+    margin: 100px;
+    padding: 0px;
+    background: rgb(5, 5, 36);
+    place-content: center;
+    display: grid;
+    
+    
+}
+
+.border1{
+    background-color: rgb(25, 25, 61);
+    width: 250px;
+    height: 450px;
+    border-radius: 20px;
+    
+}
+
+.image{
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+     
+}
+
+.text1{
+    color: white;
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: 300;
+    
+    
+}
+
+.text2{
+    color: rgb(120, 120, 148);
+    padding-left: 25px;
+    font-size: 13.5px;
+
+}
+
+.eth{
+    color: cyan;
+    padding-left: 25px;
+    font-size: 14px;
+    
+}
+
+.eth1{
+    padding-left: 50px;
+    color: cyan;
+    font-size: 14px;
+    
+}
+
+.hr{
+    color: cyan;
+    width: 200px;
+    
+    
+    
+
+}
+
+.c{
+    color: cyan;
+}
+
+.c1{
+    color: white;
+}
+
+.c2{
+    padding-left: 25px;
+}
